@@ -16,4 +16,4 @@ spec:
       - name: my-app
         image: studydocs/app:latest
         ports:
-        - containerPort: 8090
+        - containerPort: 8080
